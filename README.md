@@ -11,3 +11,5 @@ With any backup system we have certen goals.
 2. Make this happen whith no user action
 3. There might not be a 3rd.
 
+See the Wiki for the system.
+https://github.com/quedayone/photosBackupSystem/wiki
